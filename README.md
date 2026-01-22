@@ -1,7 +1,8 @@
 🚀 Proyecto: Validación de Formulario con JavaScript
 Este proyecto es un entregable clave desarrollado para la certificación Professional Developer en Digital House. El objetivo principal es demostrar el dominio en la captura de datos, lógica de validación y manipulación dinámica del DOM mediante JavaScript puro.
 
-🔗 Ver Demo en Vivo en Netlify
+🔗 Ver Demo en Vivo en Netlify 
+https://formulario-validado-js-dh.netlify.app/
 
 📋 Descripción
 La aplicación consiste en un formulario de registro interactivo que procesa diversos tipos de datos (texto, email, números, selectores y checkboxes). Implementa una capa de validación personalizada que impide el envío de información incorrecta o incompleta, mejorando la integridad de los datos y la experiencia del usuario (UX).
